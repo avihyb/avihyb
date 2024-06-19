@@ -28,7 +28,7 @@
   </tr>
   <tr>
     <td><a href="https://github.com/avihyb/GeoShapes-Java-Project">Java: GeoShapes & GUI</a></td>
-    <td>a</td>
+    <td></td>
   </tr>
 </table>
 
