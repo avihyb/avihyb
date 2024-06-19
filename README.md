@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Avihay!</h1>
+<h1 align="center">Welcome</h1>
 <h3 align="center">Computer Science Student (2nd year)</h3>
 <p align="center">
   Check out my repositories! Explore projects and assigments that I have worked on through my academic studies and my self learning journy.
