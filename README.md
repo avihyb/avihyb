@@ -23,8 +23,12 @@
     <td><a href=""></a></td>
   </tr>
   <tr>
-    <td><a href="https://github.com/avihyb/GeoShapes-Java-Project">Java: GeoShapes & GUI</a></td>
+    <td><a href="https://github.com/avihyb/VikingChess">Java: Viking Chess Game & GUI</a></td>
     <td><a href="https://github.com/avihyb/task-manager-python"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/avihyb/GeoShapes-Java-Project">Java: GeoShapes & GUI</a></td>
+    <td>a</td>
   </tr>
 </table>
 
