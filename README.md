@@ -5,45 +5,42 @@
   Check out my repositories! Explore projects and assignments that I have worked on through my academic studies and my self-learning journey.
   <br>
   Here are some of the latest projects I work on:
+  <li><a href="https://github.com/stars/avihyb/lists/operating-systems-course">Operating Systems Course</a></li>
+        <li><a href="https://github.com/stars/avihyb/lists/system-programming-course">System Programming Course</a></li>
+        <li><a href="https://github.com/stars/avihyb/lists/oop-course">Object Oriented Programming Course</a></li>
+        <li><a href="https://github.com/stars/avihyb/lists/communication-network-course">Communication Network Course</a></li>
 </p>
 
 <table align="center">
   <tr>
     <th>Latest Academic Assignments</th>
     <th>Personal Projects</th>
-    <th>Repositories divided to lists:</th>
+    
   </tr>
   <tr>
     <td><a href="https://github.com/avihyb/CPP-EX4">C++: Trees & GUI</a></td>
     <td><a href="https://github.com/avihyb/avihyb.github.io">Angular Project</a></td>
-    <td>
-      <ul>
-        <li><a href="https://github.com/stars/avihyb/lists/operating-systems-course">Operating Systems Course</a></li>
-        <li><a href="https://github.com/stars/avihyb/lists/system-programming-course">System Programming Course</a></li>
-        <li><a href="https://github.com/stars/avihyb/lists/oop-course">Object Oriented Programming Course</a></li>
-        <li><a href="https://github.com/stars/avihyb/lists/communication-network-course">Communication Network Course</a></li>
-      </ul>
-    </td>
+
   </tr>
   <tr>
     <td><a href="https://github.com/avihyb/CPP_EX1_24">C++: Graphs & Algorithms</a></td>
     <td><a href=""></a></td>
-    <td></td>
+    
   </tr>
   <tr>
     <td><a href="https://github.com/avihyb/final-project-network">Python: QUIC implementation</a></td>
     <td><a href=""></a></td>
-    <td></td>
+    
   </tr>
   <tr>
     <td><a href="https://github.com/avihyb/VikingChess">Java: Viking Chess Game & GUI</a></td>
     <td><a href="https://github.com/avihyb/task-manager-python"></a></td>
-    <td></td>
+    
   </tr>
   <tr>
     <td><a href="https://github.com/avihyb/GeoShapes-Java-Project">Java: GeoShapes & GUI</a></td>
     <td></td>
-    <td></td>
+    
   </tr>
 </table>
 
