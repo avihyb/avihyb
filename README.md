@@ -18,7 +18,7 @@
     <td><a href="https://github.com/avihyb/avihyb.github.io">Angular Project</a></td>
     <td>
       <ul>
-        <li><a href="https://github.com/stars/avihyb/lists/operations-systems-course">Operaating Systems Course</a></li>
+        <li><a href="https://github.com/stars/avihyb/lists/operating-systems-course">Operating Systems Course</a></li>
         <li><a href="https://github.com/stars/avihyb/lists/system-programming-course">System Programming Course</a></li>
         <li><a href="https://github.com/stars/avihyb/lists/oop-course">Object Oriented Programming Course</a></li>
         <li><a href="https://github.com/stars/avihyb/lists/communication-network-course">Communication Network Course</a></li>
