@@ -1,14 +1,15 @@
 <h1 align="center">Welcome</h1>
-<h3 align="center">Computer Science Student (2nd year)</h3>
-<h4 align="center">Ariel's University</h4>
+<h3 align="center">Computer Science Student @ Ariel University</h3>
+
 <p align="center">
   Check out my repositories! Explore projects and assignments that I have worked on through my academic studies and my self-learning journey.
   <br>
-  Here are some of the latest projects I work on:
-  <li><a href="https://github.com/stars/avihyb/lists/operating-systems-course">Operating Systems Course</a></li>
-        <li><a href="https://github.com/stars/avihyb/lists/system-programming-course">System Programming Course</a></li>
-        <li><a href="https://github.com/stars/avihyb/lists/oop-course">Object Oriented Programming Course</a></li>
-        <li><a href="https://github.com/stars/avihyb/lists/communication-network-course">Communication Network Course</a></li>
+  Repositories divided by subjects:
+<center> <a href="https://github.com/stars/avihyb/lists/operating-systems-course">Operating Systems Course</a> |
+        <a href="https://github.com/stars/avihyb/lists/system-programming-course">System Programming Course</a> |
+        <a href="https://github.com/stars/avihyb/lists/oop-course">Object Oriented Programming Course</a> |
+        <a href="https://github.com/stars/avihyb/lists/communication-network-course">Communication Network Course</a></center> 
+       
 </p>
 
 <table align="center">
