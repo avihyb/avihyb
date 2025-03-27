@@ -1,94 +1,113 @@
-<h1 align="center">Welcome</h1>
+<h1 align="center">Hi there 👋, I'm Avichai Ben David</h1>
 <h3 align="center">Computer Science Student @ Ariel University</h3>
 
 <p align="center">
-  Check out my repositories! Explore projects and assignments that I have worked on through my academic studies and my self-learning journey.
-  <br>
-  Repositories divided by subjects:
-<center> <a href="https://github.com/stars/avihyb/lists/operating-systems-course">Operating Systems Course</a> |
-        <a href="https://github.com/stars/avihyb/lists/system-programming-course">System Programming Course</a> |
-        <a href="https://github.com/stars/avihyb/lists/oop-course">Object Oriented Programming Course</a> |
-        <a href="https://github.com/stars/avihyb/lists/communication-network-course">Communication Network Course</a></center> 
-       
+  Software enthusiast passionate about building clean, scalable systems.<br>
+  Welcome to my GitHub! Explore my academic work, personal projects, and ongoing learning journey.
 </p>
 
-<table align="center">
-  <tr>
-    <th>Latest Academic Assignments</th>
-    <th>Personal Projects</th>
-    
-  </tr>
-  <tr>
-    <td><a href="https://github.com/avihyb/CPP-EX4">C++: Trees & GUI</a></td>
-    <td><a href="https://github.com/avihyb/avihyb.github.io">Angular Project</a></td>
+---
 
-  </tr>
-  <tr>
-    <td><a href="https://github.com/avihyb/CPP_EX1_24">C++: Graphs & Algorithms</a></td>
-    <td><a href=""></a></td>
-    
-  </tr>
-  <tr>
-    <td><a href="https://github.com/avihyb/final-project-network">Python: QUIC implementation</a></td>
-    <td><a href=""></a></td>
-    
-  </tr>
-  <tr>
-    <td><a href="https://github.com/avihyb/VikingChess">Java: Viking Chess Game & GUI</a></td>
-    <td><a href="https://github.com/avihyb/task-manager-python"></a></td>
-    
-  </tr>
-  <tr>
-    <td><a href="https://github.com/avihyb/GeoShapes-Java-Project">Java: GeoShapes & GUI</a></td>
-    <td></td>
-    
-  </tr>
-</table>
-
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
-  </a> 
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> 
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> 
-  </a> 
-</p>
-
-<h4 align="center">Connect with me:</h4>
 <p align="center">
-  <a href="https://www.linkedin.com/in/avihyb/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/avihyb" height="20" width="40" />
+  <a href="https://www.linkedin.com/in/avihyb/" target="_blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" width="30" height="30"/>
   </a>
 </p>
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=avihyb&show_icons=true&locale=en&layout=compact" alt="avihyb" />
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-brightgreen?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Software%20Engineer-informational?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Backend%20%26%20Systems-blue?style=flat-square" />
+</p>
+
+---
+
+<h3 align="center">🚀 Personal Projects</h3>
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td>tbu</td>
+      <td>tbu</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/avihyb/avihyb.github.io">🌐 Personal Portfolio</a></td>
+      <td>My personal website built using Angular, showcasing skills and projects.</td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<h3 align="center">📚 Academic Projects</h3>
+
+<p align="center">
+  <table>
+    <tr>
+      <th>Project</th>
+      <th>Description</th>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/avihyb/CPP-EX4">🌲 C++: Trees & GUI</a></td>
+      <td>Binary tree manipulations and GUI using Qt.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/avihyb/CPP_EX1_24">🔗 C++: Graphs & Algorithms</a></td>
+      <td>Graph representation and traversal algorithms.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/avihyb/final-project-network">🚀 Python: QUIC Protocol</a></td>
+      <td>A simplified implementation of the QUIC protocol in Python.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/avihyb/VikingChess">♟️ Java: Viking Chess Game</a></td>
+      <td>Strategy board game built with full GUI in Java.</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/avihyb/GeoShapes-Java-Project">📐 Java: GeoShapes Visualizer</a></td>
+      <td>Geometry rendering and GUI controls using Swing.</td>
+    </tr>
+  </table>
+</p>
+
+---
+
+<h3 align="center">🧠 Course Repository Collections</h3>
+
+<p align="center">
+  <a href="https://github.com/stars/avihyb/lists/operating-systems-course">🖥️ Operating Systems</a> •
+  <a href="https://github.com/stars/avihyb/lists/system-programming-course">🛠️ System Programming</a> •
+  <a href="https://github.com/stars/avihyb/lists/oop-course">🔧 OOP</a> •
+  <a href="https://github.com/stars/avihyb/lists/communication-network-course">🌐 Networks</a>
+</p>
+
+---
+
+<h3 align="center">🛠️ Languages & Tools</h3>
+
+<p align="center">
+  <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
+  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="40" height="40"/>
+</p>
+
+---
+
+<h3 align="center">📈 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=avihyb&layout=compact&theme=default" alt="Top Langs" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=avihyb&show_icons=true&theme=default&count_private=true" alt="GitHub Stats" />
 </p>
