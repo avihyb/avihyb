@@ -51,7 +51,10 @@
       <th>Project</th>
       <th>Description</th>
     </tr>
-    <tr>
+     <tr>
+      <td><a href="https://github.com/avihyb/rpi-space-photo-classifier)"> rpi-space-photo-classifier </a></td>
+      <td>Lightweight CLI for Raspberry Pi Zero 2 to capture single/burst photos, index metadata, run image‑classification stubs, and seamlessly transfer the latest shot to a ground desktop over SSH.</td>
+    </tr>    <tr>
       <td><a href="https://github.com/avihyb/CPP-EX4">🌲 C++: Trees & GUI</a></td>
       <td>Binary tree manipulations and GUI using Qt.</td>
     </tr>
