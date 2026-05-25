@@ -10,7 +10,6 @@ Computer Science · Ariel University
 <div align="center">
 ---
 
-Systems-focused engineer comfortable across the stack — from OS internals and network protocols to frontend products. I care about writing code that is correct, readable, and built to last.
 
 ---
 
